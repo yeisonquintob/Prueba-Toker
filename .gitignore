@@ -1,0 +1,19 @@
+# .NET build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.pdb
+*.cache
+*.exe
+
+# VS Code
+.vscode/
+.vs/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
